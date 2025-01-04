@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there! I'm Okoro Uduma Ukoha 
+🎓 Software Engineering Student at United States International University-Africa.
 
-<!--
-**Uduma5/Uduma5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Passionate about learning and building impactful software  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+1. (My Website) - A framework of a basic web navigation menu
+2. (Bank App) - A program that tracks and balances the deposit and withdrawal of funds of a user.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Skills
+- Programming: Python.
+- Web Development: HTML, CSS, JavaScript.
+- Tools: Git, VSCode.
+
+## 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/uduma-okoro-9ba808305/) | [Portfolio](https://github.com/Uduma5)
